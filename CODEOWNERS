@@ -1,0 +1,10 @@
+# Docker ownership
+Dockerfile         @yelloelefant
+**/Dockerfile      @yelloelefant
+
+docker-compose.yml @yelloelefant
+compose.yaml       @yelloelefant
+
+docker/**          @yelloelefant
+containers/**      @yelloelefant
+stack/**           @yelloelefant
